@@ -1,0 +1,63 @@
+react是谁开发的?
+Facebook开发的,开源的
+
+react是什么?
+是用于构建用户界面的javaScript库(官方低调称为库,大家都成为框架)
+
+库和框架的区别?
+框架的生态更好
+
+react可以做什么?
+帮助前端开发工程师操作dom
+想干嘛?数据一动dom就动,dom一动数据就动.
+
+react只关注构建页面没有封装ajx请求,想ajax请求使用axios
+
+尤宇溪 觉得anglar太重,react不好用,所以开发了vue
+
+什么是组件?
+组件:构成局部页面的资源的集合
+
+react特点?
+声明式编码
+    我发达了,有个秘书跟着我.我想喝茶.
+    命令式:喊秘书拿我的茶杯倒水递给我.
+    声明式:嗓子嗯嗯两声,秘书就立马完成啦拿我的茶杯倒水递给我.
+组件化模式
+
+React Native中可以使用React语法即javascript语法进行开发->IOS和Android应用
+客户端原生开发应用
+IOS 使用OC Swift
+Android 使用java 安卓的开发流程
+
+虚拟DOM?Diffing算法?尽可能的减少操作dom的次数.
+就避免了js语言和开发浏览器的语言的交互的资源消耗和减少了重绘或重排.
+数据<->虚拟DOM-Diffing算法<->真实DOM
+核心:虚拟DOM-Diffing算法
+
+babel功能:es6转es5 jsx转成js 
+jsx是js的扩展语言 jsx是在js上提了7个要求
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

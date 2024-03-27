@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="./js/react.development.js"></script>
+    <script src="./js/react-dom.development.js"></script>
+    <script src="./js/babel.min.js"></script>
+</head>
+
+<body>
+    <div id="test"></div>
+    <script type="text/babel">
+        // type="text/babel" 是为了写jsx
+        let VDOM=<h1>Hello,React</h1>
+        let VDOM2=<h1>HELLO</h1>
+        ReactDOM.render(VDOM,document.getElementById('test'))
+        ReactDOM.render(VDOM2,document.getElementById('test'))
+
+    </script>
+</body>
+
+</html>
